@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "aerobeat_asset_prototypes",
+  "project_id": "55e7a8d5-93fc-4911-b9e8-26e6562fc330"
+}
